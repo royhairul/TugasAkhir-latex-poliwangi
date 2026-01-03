@@ -3,3 +3,11 @@
 *.log
 *.aux
 *.out
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.synctex.gz
+*.toc
